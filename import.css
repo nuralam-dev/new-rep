@@ -1,1 +1,4 @@
 @import "tailwindcss";
+.item1 {
+  grid-column: 1 / 2; /* spans from column 1 to before column 2 → 1 column */
+}
